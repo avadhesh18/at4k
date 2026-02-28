@@ -3,6 +3,11 @@ A powerful, privacy friendly and clean launcher for Android TV that transforms y
 
 [![AT4K Launcher](https://play-lh.googleusercontent.com/sOaEg1pucAnQfZuqcTqGYHgki89ehvoJ-7XMB0PbMxQ0Ezxf6zS5Visy4q_3mw2Jh3LZk19CtgNQTK0hfO_6Hw=w832-h470-rw)](https://play.google.com/store/apps/details?id=com.overdevs.at4k)
 
+## Discuss on AT4K Subreddit
+
+<a href="https://www.reddit.com/r/AT4K/"><img width="392" height="145" alt="AT4K Launcher on Reddit" src="https://github.com/user-attachments/assets/7e25d847-6848-4990-bd2d-e9ae1c2e8c62" /></a>
+
+
 ## 🚀 Features
 
 - **Custom Home Screen**: Replace the default Android TV launcher with a customizable interface
