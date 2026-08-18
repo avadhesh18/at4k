@@ -1,5 +1,10 @@
 # AT4K Launcher for Android TV
 A powerful, privacy friendly and clean launcher for Android TV that transforms your viewing experience with enhanced app management and personalized home screen layouts. Inspired by Apple TV's approach to a simple, no-nonsens, ad-free UI.
+<p float="left">
+<a href="https://play.google.com/store/apps/details?id=com.overdevs.at4k"><img width="160" alt="playstore" src="https://github.com/user-attachments/assets/04095b6d-69bb-4adf-a577-0287d9c8fd4d" /></a>
+<a href="https://github.com/avadhesh18/at4k/releases/latest"><img width="160"  alt="apk" src="https://github.com/user-attachments/assets/585dcd7a-bd68-4c4a-9e78-6c0b6c6908e3" /></a>
+</p>
+
 
 [![AT4K Launcher](https://play-lh.googleusercontent.com/sOaEg1pucAnQfZuqcTqGYHgki89ehvoJ-7XMB0PbMxQ0Ezxf6zS5Visy4q_3mw2Jh3LZk19CtgNQTK0hfO_6Hw=w832-h470-rw)](https://play.google.com/store/apps/details?id=com.overdevs.at4k)
 
